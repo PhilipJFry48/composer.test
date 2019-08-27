@@ -1,7 +1,7 @@
 {
     "name": "itees/itees.test",
     "type": "bitrix-module",
-    "description": "Тестовый модуль",
+    "description": "Test",
     "version": "1.0.0",
     "time": "11.09.2018",
     "minimum-stability": "dev",
